@@ -1,6 +1,7 @@
 # Changelog
 
 ## v2.0.8_2014-07-17 - _2014-7-16_
+#16836
 - `Fixed` [#16836] (http://gitlab.alibaba-inc.com/ata/atatech-kb/issues/16836) 圈子详情展开溢出了
 - `Fixed` [#17725] (http://gitlab.alibaba-inc.com/ata/atatech-kb/issues/17725) bug：搜索数据出现两个重复
 - `Fixed` [#18045] (http://gitlab.alibaba-inc.com/ata/atatech-kb/issues/18045) 【团队博客】博客管理功能：批量添加成员
